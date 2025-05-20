@@ -1,6 +1,6 @@
 // App.jsx
 import React from "react";
-import PlaylistGenerator from "./playlists";
+import PlaylistGenerator from "./components/playlists";
 
 function App() {
   return (

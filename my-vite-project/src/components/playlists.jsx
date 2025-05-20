@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import "./index.css";
 
 export default function PlaylistGenerator() {
   const [songs, setSongs] = useState([]);
